@@ -1,5 +1,3 @@
-
-
 # DevOps CI/CD Project: CI/CD Pipeline Deployment using Jenkins and Docker
 
 📌 **Project Objective**  
